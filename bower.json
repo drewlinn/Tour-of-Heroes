@@ -1,0 +1,14 @@
+{
+  "name": "tour-of-heroes",
+  "description": "QuickStart package.json from the documentation, supplemented with testing support",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
